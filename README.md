@@ -16,3 +16,17 @@ A curated list of free hosting providers: backend, static, serverless, database 
 | **Redis Cloud**    | Redis       | 30MB storage | Managed in-memory DB | Caching, real-time apps |
 | **CockroachDB**    | PostgreSQL-like | 5GB storage, free tier | Distributed SQL, high resilience | Scalable cloud apps |
 
+
+### Hosting
+| Service           | Free Tier Limits        | Features | Best For |
+|------------------|------------------------|----------|----------|
+| **Vercel**      | Unlimited static sites, 100GB bandwidth | CI/CD, serverless functions, custom domains | React, Next.js apps |
+| **Netlify**     | 100GB bandwidth, 300 build minutes | Serverless functions, forms, identity | Static sites, JAMstack apps |
+| **GitHub Pages** | 1GB storage, 100GB bandwidth | Jekyll support, custom domains | Personal projects, documentation |
+| **Cloudflare Pages** | Unlimited requests, 500 builds/month | Global CDN, serverless functions | Fast static site hosting |
+| **Firebase Hosting** | 1GB storage, 10GB bandwidth | SSL, CDN, integrates with Firestore | Web apps, PWAs |
+| **Render**      | 100GB bandwidth, static & backend hosting | Free TLS, automatic deployments | Full-stack apps |
+| **Surge**       | Unlimited sites, basic SSL | Super simple CLI-based hosting | Quick static site deployments |
+| **Replit**      | Free limited deployments | Full dev environment, free domains | Prototyping, quick projects |
+| **InfinityFree** | Unlimited storage, 5GB bandwidth | PHP & MySQL support, free subdomain | Simple PHP-based sites |
+| **Neocities**   | 1GB storage, basic HTML hosting | Community-driven, static only | Personal sites, blogs |
