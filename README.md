@@ -30,3 +30,4 @@ A curated list of free hosting providers: backend, static, serverless, database 
 | **Replit**      | Free limited deployments | Full dev environment, free domains | Prototyping, quick projects |
 | **InfinityFree** | Unlimited storage, 5GB bandwidth | PHP & MySQL support, free subdomain | Simple PHP-based sites |
 | **Neocities**   | 1GB storage, basic HTML hosting | Community-driven, static only | Personal sites, blogs |
+| **ELECTROHAXZ Hosting** | Free VCO plan offers up to 16 CPU cores & 32 GB RAM w/ VCO device enrolled. [Vote](https://electrohaxz.host/vote) & [referral](https://electrohaxz.host/referral) bonuses provide additional free VPS resources based on referral count/vote streak completion. | Full root access, native IPv4 support, enterprise grade servers | Chatbots, game servers, web servers, any legal use not against ToS. |
