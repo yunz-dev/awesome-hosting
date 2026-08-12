@@ -30,3 +30,4 @@ A curated list of free hosting providers: backend, static, serverless, database 
 | **Replit**      | Free limited deployments | Full dev environment, free domains | Prototyping, quick projects |
 | **InfinityFree** | Unlimited storage, 5GB bandwidth | PHP & MySQL support, free subdomain | Simple PHP-based sites |
 | **Neocities**   | 1GB storage, basic HTML hosting | Community-driven, static only | Personal sites, blogs |
+| **harvis.dev**  | Free for small sites: 1GB storage, 100k requests/month | No-signup instant deploys (CLI, drag & drop, HTTP API, MCP), built-in forms | Quick static site deployments |
