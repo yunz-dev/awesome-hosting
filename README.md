@@ -30,3 +30,4 @@ A curated list of free hosting providers: backend, static, serverless, database 
 | **Replit**      | Free limited deployments | Full dev environment, free domains | Prototyping, quick projects |
 | **InfinityFree** | Unlimited storage, 5GB bandwidth | PHP & MySQL support, free subdomain | Simple PHP-based sites |
 | **Neocities**   | 1GB storage, basic HTML hosting | Community-driven, static only | Personal sites, blogs |
+| **[Shipvela](https://shipvela.com)** | 3 projects, 20 publishes/month | GitHub import, static-folder CLI publishing, custom-domain connections, managed HTTPS | React/Vite/static sites; supported Next.js SSR is paid |
